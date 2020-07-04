@@ -1,7 +1,7 @@
 Package: trundler
 Type: Package
 Title: Retrieve Data from 'Trundler' API
-Version: 0.1.13
+Version: 0.1.14
 Authors@R: 
     c(person(given = c("Andrew", "B."),
              family = "Collier",
@@ -25,9 +25,9 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
 NeedsCompilation: no
-Packaged: 2020-07-01 14:58:31 UTC; rstudio-user
+Packaged: 2020-07-04 02:45:53 UTC; rstudio-user
 Author: Andrew B. Collier [aut, cre],
   Megan Beckett [aut, pbl]
 Maintainer: Andrew B. Collier <andrew@exegetic.biz>
 Repository: CRAN
-Date/Publication: 2020-07-03 10:40:03 UTC
+Date/Publication: 2020-07-04 07:00:04 UTC
