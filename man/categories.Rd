@@ -4,7 +4,10 @@
 \alias{categories}
 \title{List all categories}
 \usage{
-categories()
+categories(category_id = NULL)
+}
+\arguments{
+\item{category_id}{A category ID.}
 }
 \value{
 Categories as a \code{data.frame}.

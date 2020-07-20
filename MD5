@@ -1,4 +1,4 @@
-7eefe85fa09af4cb37e7f1f892b47fa0 *DESCRIPTION
+331454b9a91c7caa2289acfacf1e9637 *DESCRIPTION
 f7b511d60f8ddc9fc1d3e801d7c67519 *NAMESPACE
 b5f55257873be4c572cb1f65446557bd *NEWS.md
 d6dc8c97d42c9a8af8321a797a7f5335 *R/admin.R
@@ -6,7 +6,7 @@ b0ff841cc6fc78bce9946cb9a0e20745 *R/http.R
 8fa25297937668b7c4b3b9254f57f64e *R/paginate.R
 7a7a6c3778f44b72cdbea2b074f8061f *R/product.R
 74ee5de9342871b6e3143c6de854cd2f *R/retailer.R
-4cdfaaa8043c033393b4a80de994b796 *R/taxonomy.R
+c6afc4c0269b613d72475b1a9e38c31b *R/taxonomy.R
 5a902e06fe93b0271db71dfc3852eeb2 *R/trundler.R
 16fe740504adbd120e88d8e30db8b8ad *R/util.R
 af8649bf09278a24a4290da5cd0dff62 *README.md
@@ -20,9 +20,9 @@ c024f8c84ab526dab344a6682b5d0370 *man/admin_stats.Rd
 e0e3c08d47ff56542a0d59085a34928c *man/admin_stats_daily.Rd
 e134e64b1fdb57a66c71bc8fba207c7a *man/admin_stats_status.Rd
 3a49aaced44641124e89d634c564bf03 *man/base_url.Rd
-4514b7ba14c2ad9c75d3c4e003084337 *man/categories.Rd
-3d6782cd0000ebe75c8e74ea88ab7493 *man/categories_graph.Rd
-5df218e87d4a862c7628cccb9012bbc8 *man/category_products.Rd
+7d98d7e9529ea6a47e5279c957e5f90c *man/categories.Rd
+670551506b8b0e1d39e7d58778c11249 *man/categories_graph.Rd
+5a87ad490fd6c5775bf651b3ed77004c *man/category_products.Rd
 e744919d44cb7bb59096e6216d39e061 *man/check_response_error.Rd
 5de55364c2e092d9c185aae36afdfc97 *man/check_response_json.Rd
 0ef36a0ce379fb6ff72e4e4aa48a1cca *man/figures/logo.png
@@ -41,7 +41,7 @@ dda82e13c67383b3aec81453822419d2 *man/products.Rd
 8637826d4518cfc0e852de656b5aaf10 *man/set_server.Rd
 1008dd8f7a0b9b031320253b4d3b4fa3 *tests/testthat.R
 36fe1696d5ea8f32e754a78052d592a7 *tests/testthat/setup-files.R
-b19c454a10dca5070130337afcd8781b *tests/testthat/test-0-http.R
+4de25de841e456034eeada0ea075fb4d *tests/testthat/test-0-http.R
 30620f1138950542cd132d0426cb1a37 *tests/testthat/test-1-retail.R
 3597c57034e18a4385c69f3bda710f4d *tests/testthat/test-2-retailer.R
 8f9b583368acb9313c61409862b70a9c *tests/testthat/test-3-product.R
